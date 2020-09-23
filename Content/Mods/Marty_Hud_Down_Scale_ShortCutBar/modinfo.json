@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down - ShortCutBar",
+	"description": "Just make the Shortcutbar a little smaller, a little lower down on the screen and a little bit of transparency.\n\nNothing wild ....\n\nIt's my personal touch. I was looking for HUD scaling back then because Funcom somehow forgot about it. Never found anything ... until a few hours ago. But that does not fit me so ...\n\nThe Hud Scale Down elements are \"all\" individual.",
+	"changeNote": "The transparency decreased a bit.",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2235623212",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_ShortCutBar",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

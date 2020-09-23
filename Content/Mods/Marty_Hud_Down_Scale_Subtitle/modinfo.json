@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down - Subtitle",
+	"description": "Set the Subtile Renderer Down to the Screen and make them little smaller",
+	"changeNote": "File Changed:\nW_SubtitleEntryView (Font, Color)\nW_SubtitleRenderer (Position, Size)\n",
+	"author": "Marty Shephard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2236309933",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_Subtitle",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

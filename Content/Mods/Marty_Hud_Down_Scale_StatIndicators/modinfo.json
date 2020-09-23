@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down StatIndicators",
+	"description": "Scales Down the Game Statsindicators. Makes a little bit smaller and a little bit Transparency.\n\nThe Hud Scale Down elements are \"all\" individual. ",
+	"changeNote": "File Changed\n\nContent\\UI\\HUD\nW_HUDCharacterStatIndicators\n",
+	"author": "Marty Shepard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2236129031",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_StatIndicators",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

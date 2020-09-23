@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down - Game Mode Hints",
+	"description": "Makes the GameMode Hints (The Button/key you press) more Transparency, Smaller and move this to bottom right.\n\nSomehow I need the GameMode Hints from time to time, but again that bothers me and somehow I don't quite know where to go.....\n\nThe Hud Scale Down elements are \"all\" individual.",
+	"changeNote": "Modified Files:\n\nContent\\UI\\HUD\nW_GameModeHint\nW_GameModeHints\n\nContent\\UI\\Framework\nW_HotkeyIcon",
+	"author": "Marty Shepard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2235749037",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_GameModeHints",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

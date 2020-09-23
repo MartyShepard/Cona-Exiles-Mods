@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down - Fifo Messages",
+	"description": "\nMake the Journey Info, Level up Info, purge Info, Discovery info smaller. The original is too big for my taste.\n\nThe Hud Scale Down elements are \"all\" individual.",
+	"changeNote": "Files Change\nContent\\UI\\HUD\\FIFOMessages\nW_DiscoveryFIFOMessageView\nW_FIFOMessageView\nW_JourneyStepFIFOMessageView2\nW_LevelUpFIFOMessageView\nW_PurgeFIFOMessageView\n",
+	"author": "Marty Shephard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2235656747",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_FifoMessages",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

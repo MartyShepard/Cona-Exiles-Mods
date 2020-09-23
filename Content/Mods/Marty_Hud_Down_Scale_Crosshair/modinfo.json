@@ -1,0 +1,16 @@
+{
+	"name": "Hud Scale Down - Crosshair",
+	"description": "\nMakes the Crosshair smaller. The original is too big for my taste. In most Games too ...\n\nThe Hud Scale Down elements are \"all\" individual.",
+	"changeNote": "File Change:\nContent\\UI\\HUD\nW_Crosshair",
+	"author": "Marty Shephard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2235668687",
+	"steamVisibility": 2,
+	"folderName": "Marty_Hud_Down_Scale_Crosshair",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

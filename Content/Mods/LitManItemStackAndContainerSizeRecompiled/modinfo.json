@@ -1,0 +1,16 @@
+{
+	"name": "LitMan Item Stack And Container Size - Recompiled",
+	"description": "A Recompile from LitMan Item Stack And Container Size\n\nThis is for the new version which includes the Isle of Siptah addon\n\nThe old Version:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1125427722\n\nThe GitLab from Litman\nhttps://gitlab.com/kasperaitis/conan-exiles-mods/tree/master/Compiled\n\n\nItem stack increased 10 times & Containers Size increased 10 times.\n\nDoes not Stacks Armor, Weapons and Pet Items.\n\nBest used with \"LitMan Increased Weight - Recompiled\".\n\nDoes not work with \"LitMan Item Stack\" and \"LitMan Container Size\".\n\nMod ID:",
+	"changeNote": "Update to the Devkit Version: 4.15.3 - 245789/ 16-09-2020",
+	"author": "Marty Shephard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 30,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2236570677",
+	"steamVisibility": 2,
+	"folderName": "LitManItemStackAndContainerSizeRecompiled",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}

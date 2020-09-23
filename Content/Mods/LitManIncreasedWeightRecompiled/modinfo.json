@@ -1,0 +1,16 @@
+{
+	"name": "LitMan Increased Weight - Recompiled",
+	"description": "A Recompile from Litman HUD Source\n\nThe old Version:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=884155321\n\nThe GitLab from Litman\nhttps://gitlab.com/kasperaitis/conan-exiles-mods\n\n[/b]Increased Weight Limit to 7000000.[/b]\n\nBest used with \"LitMan Item Stack\" or \"LitMan Item Stack & Container Size\".\n\nDoes not work with \"LitMan Weight\".",
+	"changeNote": "Update to the Devkit Version: 4.15.3 - 245789/ 16-09-2020\n\nNo Changes, only Recmpiled with the new Version",
+	"author": "Marty Shepard",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 33,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2234744777",
+	"steamVisibility": 2,
+	"folderName": "LitManIncreasedWeightRecompiled",
+	"revisionNumber": 245789,
+	"snapshotId": 26426
+}
